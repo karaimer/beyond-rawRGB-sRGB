@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Beyond raw-RGB and sRGB
-description: Project Site of CIC Paper "Beyond raw-RGB and sRGB Advocating Access to a Colorimetric Image State"
+title: Beyond raw-RGB and sRGB&#58; Advocating Access to a Colorimetric Image State
+description: Project Site of CIC Paper "Beyond raw-RGB and sRGB&#58; Advocating Access to a Colorimetric Image State"
 author: Hakki Can Karaimer
 ---
 ![](./image/OverviewFigure.png)
