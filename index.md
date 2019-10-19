@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Beyond raw-RGB and sRGB&#58; Advocating Access to a Colorimetric Image State
+title: Beyond raw-RGB and sRGB&#58; \\Advocating Access to a Colorimetric Image State
 description: Project Site of CIC Paper "Beyond raw-RGB and sRGB&#58; Advocating Access to a Colorimetric Image State"
 author: Hakki Can Karaimer
 ---
@@ -12,7 +12,7 @@ Most modern cameras allow captured images to be saved in two color spaces: (1) r
 #### Publications: ####
 * Karaimer H.C., Brown M.S. (2019) "Beyond raw-RGB and sRGB: Advocating Access to a Colorimetric Image State", *Color and Imaging Conference* (**CIC`19**), Oct 2019 [[pdf]](./paper/Karaimer_Brown_CIC19.pdf) [[bibtex]](./bib/Karaimer_Brown_CIC19.bib) 
 
-## Code, Data, and Supplemental Material ##
+## Code and Data ##
 
 Coming soon. 
 
